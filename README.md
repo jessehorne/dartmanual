@@ -5,7 +5,7 @@ The open-source introduction to Direct Action, Resistance and Change.
 
 ---
 
-![Book Cover](/manuscript/images/cover.png?raw=true)
+![Book Cover](/manuscript/images/cover.png?raw=true | width=400)
 
 ---
 
