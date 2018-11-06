@@ -5,7 +5,7 @@ The open-source introduction to Direct Action, Resistance and Change.
 
 ---
 
-<p align="center"><img src="https://github.com/jessehorne/dartmanual/blob/master/manuscript/images/cover.png?raw=true" style="width: 400px; max-width: 400px;"/></p>
+<p align="center"><img src="https://github.com/jessehorne/dartmanual/blob/master/manuscript/images/cover.png?raw=true" width="400px"/></p>
 
 ---
 
