@@ -17,7 +17,7 @@ The open-source introduction to Direct Action, Resistance and Change.
 
 There are a few ways to help contribute to this Open Source book. Some ways to contribute are listed below!
 
-* Donate to the on-going [GoFundMe](https://www.gofundme.com/dart-the-book-of-change)
+* Donate to the on-going [Indiegogo](https://igg.me/at/thedartbook/x/17909991)
 	* This will help me print and distribute (not sell) physical copies to my friends all over the World
 	* It will help me afford the time to work on this project
 	* It will help me teach the concepts in this book to people in my community
